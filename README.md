@@ -30,10 +30,10 @@ In addtion to the kit you will need:
 * Raspberry Pi Header (solderless headers are amvailable if you don't feel confident soldering)
 
 These parts are shown in the photos below:
-![Photo](images/path/to/10.jpg?raw=true "Parts")
+![Photo](images/10.jpg?raw=true "Parts")
 
 * Insert the threads into the 3D printed sensor cowling 
-![Photo](images/path/to/7.jpg?raw=true "sensorCowling)
+![Photo](images/7.jpg?raw=true "sensorCowling)
 
 * Use the M2 screws to mount the Pm sensor to the mounting place
 
@@ -42,13 +42,13 @@ These parts are shown in the photos below:
 * Mount the assembly into the enclosure, fix the mounting plate using the self tapping screws
 
 * Mount the BME280 sensor above the PM sensor using the remaining nylon screw into the threaded hole.
-![Photo](images/path/to/12.jpg?raw=true "box")
+![Photo](images/12.jpg?raw=true "box")
 
 * wire the sensor to the pi taking note of white marks denoting pin 1
 
-![Photo](images/path/to/1.jpg?raw=true "BME280")
-![Photo](images/path/to/5.jpg?raw=true "RPi Header Pin 1")
-![Photo](images/path/to/6.jpg?raw=true "PMS5003)
+![Photo](images/1.jpg?raw=true "BME280")
+![Photo](images/5.jpg?raw=true "RPi Header Pin 1")
+![Photo](images/6.jpg?raw=true "PMS5003)
 
 * Fit an SD card of at least 8GB and 
 
