@@ -48,7 +48,6 @@ These parts are shown in the photos below:
 
 ![Photo](images/1.jpg?raw=true "BME280")
 ![Photo](images/5.jpg?raw=true "RPi Header Pin 1")
-![Photo](images/6.jpg?raw=true "PMS5003)
 
-* Fit an SD card of at least 8GB and 
+* Fit an SD card of at least 8GB and head over to /solentairwatcg/sniffy and follow the instructions to set up the raspberry pi and begin streaming data.
 
