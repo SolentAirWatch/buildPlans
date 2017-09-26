@@ -1,7 +1,7 @@
 # buildPlans
 build plans for sniffy and associated brackets. 
 
-We're a little thin on documentation here - please help us out and submit a pull request!
+We're a little thin on documentation here - please help us out by submitting a pull request!
 
 The works contained in this repositiory are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0). This means you are free to share and share-alike for non-commercial use.
 
